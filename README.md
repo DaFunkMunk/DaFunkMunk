@@ -14,8 +14,8 @@ Focused on IT-driven process optimization in the oil & gas sector.
 ---
 
 ### 🧠 Skills & Technologies
-- **Languages:** Python, SQL, Java, HTML/CSS, VBA  
-- **Tools:** Power BI, SharePoint, Angular, Microsoft Office  
+- **Languages:** Python, SQL, Java, HTML/CSS, VBA, C#, PowerShell 
+- **Tools:** Power BI, SharePoint, Microsoft Office, Spotfire  
 - **Other:** Process Optimization, UX for Non-Designers
 
 ---
@@ -31,6 +31,7 @@ Focused on IT-driven process optimization in the oil & gas sector.
 - **B.S., Mechanical Engineering** – University of Houston (2020)  
 - **A.S., Engineering** – San Jacinto College  
 - **A.A., Fine Arts** – San Jacinto College
+- **Software and Web Development - AIU, DigitalCrafts
 
 ---
 
