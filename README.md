@@ -1,7 +1,5 @@
 # **Nathaniel Pendley**
 
----
-
 **Houston, Texas, United States**  
 📧 ngpend2@gmail.com, nate.pendley@coterra.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/n-p-41ba1419)
