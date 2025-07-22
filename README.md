@@ -31,7 +31,7 @@ Focused on IT-driven process optimization in the oil & gas sector.
 - **B.S., Mechanical Engineering** – University of Houston (2020)  
 - **A.S., Engineering** – San Jacinto College  
 - **A.A., Fine Arts** – San Jacinto College
-- **Software and Web Development - AIU, DigitalCrafts
+- **Software and Web Development** - AIU, DigitalCrafts
 
 ---
 
