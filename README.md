@@ -1,4 +1,6 @@
-#Nathaniel Pendley
+####Nathaniel Pendley
+
+---
 
 **Houston, Texas, United States**  
 📧 ngpend2@gmail.com, nate.pendley@coterra.com  
